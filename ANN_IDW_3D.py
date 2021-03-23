@@ -11,7 +11,6 @@ from mpl_toolkits.mplot3d import Axes3D
 import pandas as pd
 import tensorflow as tf
 import time
-import os
 
 
 t0 = time.clock()
